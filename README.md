@@ -15,9 +15,8 @@
   <img align="center" alt="Dc-nodeJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Dc-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Dc-VUE" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <br><br>
           
-    <img align="right" alt="Dc-Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/awJcoaLVTaoAAAAM/natsu.gif">
+  <img align="right" alt="Dc-Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/awJcoaLVTaoAAAAM/natsu.gif">
 </div>
 <br>
   <div><a href="https://www.instagram.com/dc_impio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
