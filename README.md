@@ -14,6 +14,7 @@
   <img align="center" alt="Dc-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Dc-nodeJS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Dc-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <br><br>
           
     <img align="right" alt="Dc-Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/awJcoaLVTaoAAAAM/natsu.gif">
 </div>
